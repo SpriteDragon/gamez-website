@@ -1,2 +1,2 @@
-<H1 Gamez! </H1>
+<h1 Gamez! >
 <a href="https://gamez-cthk.onrender.com/">The Website</a>
